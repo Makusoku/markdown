@@ -57,5 +57,5 @@ int main(){
 ![logo 1](balti1.jpg "Balti")
 
 <!-- Github markdown-->
-* [x] Tarea 1
+* [X] Tarea 1
 
