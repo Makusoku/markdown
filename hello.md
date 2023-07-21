@@ -54,7 +54,7 @@ int main(){
 
 <!-- Imagenes -->
 
-![logo 1](balti1.jpg "Balti")
+![logo 1](https://i.pinimg.com/550x/10/2b/50/102b50803047f79f8014a19e20bec369.jpg "Balti")
 
 <!-- Github markdown-->
 * [X] Tarea 1
