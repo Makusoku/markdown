@@ -26,7 +26,7 @@
 3. Uva
 
 <!-- Enlaces -->
-[Presentacion]([https://google.com](https://docs.google.com/presentation/d/1jCxiyMdIUxPEcQ0W4BiRoThHb72EAYjB2A_SkWjohh4/edit?usp=sharing) "Texto personalizable")
+[Presentacion](https://docs.google.com/presentation/d/1jCxiyMdIUxPEcQ0W4BiRoThHb72EAYjB2A_SkWjohh4/edit?usp=sharing "Texto personalizable")
 
 <!-- Citas -->
 > Esto es una cita
